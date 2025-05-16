@@ -15,9 +15,10 @@ This project is a relational database design for a modular e-commerce platform, 
 - ERD: See `/docs/ERD.png`
 
 ## 🧠 Team Members
+--Group 248
 - Daisy Wangari
 
 ## 💬 Tools Used
-- MySQL / MariaDB
-- dbdiagram.io
+- MySQL
+- draw.io
 - GitHub
